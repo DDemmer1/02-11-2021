@@ -4,9 +4,7 @@ public class Application {
 	
 	
 	public static void main(String[] args) {
-	
-
-		
+			
 		Smartphone s1 = new Smartphone();
 		Smartphone s2 = new Smartphone();
 		Smartphone s3 = new Smartphone();
