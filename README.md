@@ -13,5 +13,5 @@
 Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
 
-- [📃 Java Methoden ](https://www.programmierenlernenhq.de/methoden-in-java-was-sind-methoden-und-wie-werden-sie-verwendet/)
-- [🎥 Java Objektorientierung](https://www.youtube.com/watch?v=xmSGwipW6NQ&t=72s)
+- [📃 Java Class Attributes ](https://www.w3schools.com/java/java_class_attributes.asp)
+- [📃 Java static](https://panjutorials.de/tutorials/java-tutorial-programmieren-lernen-fuer-anfaenger/lektionen/static-in-java/)
